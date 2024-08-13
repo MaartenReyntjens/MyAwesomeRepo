@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="vOg1_NFvNvCwThLFLXLV">
-    <mxGraphModel dx="609" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1046" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,15 @@
         </mxCell>
         <mxCell id="WZUz2TL663WQzzj8TyzD-112" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$UA_{HEX},C_{steel},c_{p,cold}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="314.68" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WZUz2TL663WQzzj8TyzD-113" value="$$kV_{valve}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WZUz2TL663WQzzj8TyzD-114" value="$$kV_{column}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414.84000000000003" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WZUz2TL663WQzzj8TyzD-118" value="$$p_{FT},\gamma_{FT}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
